@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f61dfee-f5e5-49fc-96eb-189daf2ceaaa" name="변경" comment="" />
+    <list default="true" id="3f61dfee-f5e5-49fc-96eb-189daf2ceaaa" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,12 +24,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="06-09-feature/part_1" />
-                    <option name="lastUsedInstant" value="1686274626" />
+                    <option name="branchName" value="06-09-feat_update_work_flow" />
+                    <option name="lastUsedInstant" value="1686275105" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="06-09-featrue/part_2" />
-                    <option name="lastUsedInstant" value="1686274625" />
+                    <option name="branchName" value="06-09-feature/part_1" />
+                    <option name="lastUsedInstant" value="1686274626" />
                   </RecentBranch>
                 </list>
               </option>
@@ -75,5 +77,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
