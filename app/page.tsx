@@ -57,9 +57,6 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Learn about Next.js in an interactive course with&nbsp;quizzes!
-          </p>
         </a>
       </div>
     </main>
